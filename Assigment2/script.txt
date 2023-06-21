@@ -1,0 +1,9 @@
+source D:\nguyen\Material\IT004.N21.CTTN\Assigment2\CreateSchema1.sql
+
+localhost
+root
+Lbnguyen_04112004
+truonghoc1
+THPT Pham Van Sang
+2020
+Gioi
